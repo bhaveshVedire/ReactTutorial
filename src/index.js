@@ -11,6 +11,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-ReactDOM.render(<h1>Hi ra Bhavesh</h1>, document.getElementById('test'));
-
 serviceWorker.unregister();
