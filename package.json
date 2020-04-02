@@ -2,7 +2,7 @@
   "name": "my-first-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://bhaveshVedire.github.io/ReactTutorial/my-first-app",
+  "homepage":"https://bhaveshVedire.github.io/ReactTutorial",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
